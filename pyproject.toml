@@ -1,9 +1,11 @@
-[tool.poetry]
+﻿[tool.poetry]
 name = "staffspy"
 version = "0.2.25"
 description = "Staff scraper library for LinkedIn"
-authors = ["Cullen Watson <cullen@cullenwatson.com>"]
+authors = ["EbxdMalix <76601476+EbxdMalix@users.noreply.github.com>"]
+license = "MIT"
 readme = "README.md"
+repository = "https://github.com/EbxdMalix/StaffSpy-main"
 
 [tool.poetry.dependencies]
 python = "^3.10"
